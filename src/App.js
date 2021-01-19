@@ -23,7 +23,7 @@ const set_customers = [
     'image': 'https://placeimg.com/64/64/3',
     'name': '홍길동3',
     'birthday':"33",
-    'gender': '여자3',
+    'gender': '여자333',
     'job': '대학생3dwawwwa'
   }   
   
