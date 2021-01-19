@@ -24,7 +24,7 @@ const set_customers = [
     'name': '홍길동3',
     'birthday':"33",
     'gender': '여자3',
-    'job': '대학생3dwaa'
+    'job': '대학생3dwawwwa'
   }   
   
 ]
@@ -39,7 +39,7 @@ function App() {
         set_customers.map(c =>{
           return(
             <Customer
-              key={c.id}  //key 항목은 반드a시(없으면 브라우저에서 자바스크립트 에러남)
+              key={c.id}  //key aaa항목은 반드a시(없으면 브라우저에서 자바스크립트 에러남)
               id={c.id}
               name={c.name}
               image={c.image}
